@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\controllers",
+    "\\src\\routes"
   ],
-  "SelectedNode": "\\C:\\Users\\jsull_znpct1k\\Source\\Repos\\interview-prep-api",
+  "SelectedNode": "\\src\\controllers\\mainController.js",
   "PreviewInSolutionExplorer": false
 }
